@@ -1,0 +1,6 @@
+com.lti.demo
+Class Customer 
+{
+
+int count;
+}
