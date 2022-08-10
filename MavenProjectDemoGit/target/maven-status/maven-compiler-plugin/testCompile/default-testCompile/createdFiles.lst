@@ -1,0 +1,5 @@
+com\lti\demo\TestBeforeAfter.class
+com\lti\suitex\TestSuitEx.class
+com\lti\demo\CalculatorTests.class
+com\lti\demo\ExceptionTest.class
+com\lti\demo\ParameterTest.class
